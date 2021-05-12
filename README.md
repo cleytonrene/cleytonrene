@@ -1,6 +1,6 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
+- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/">Estácio</a>.
 - 💼 &nbsp; Buscando minha primeira oportunidade em desenvolvimento :)
 - 🌱 &nbsp; Aprendendo front-end com a @Trybe.
 
